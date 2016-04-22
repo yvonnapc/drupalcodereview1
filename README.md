@@ -44,7 +44,7 @@ If you have any issues, questions, ideas, or concerns contact us through GitHub.
 • CTools Module<br>
 • Features module<br>
 • Views Module<br>
-• Book Review Module (_CUSTOM__)<br>
+• Book Review Module (_CUSTOM_)<br>
 • Site Configuration Module (_CUSTOM_)<br>
 • phpMyAdmin<br>
 • PHP<br>
