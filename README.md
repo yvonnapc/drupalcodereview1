@@ -24,7 +24,8 @@ You will need the following things properly installed on your computer:<br>
 1. Open Terminal and clone into this repository: https://github.com/yvonnapc/drupalcodereview1.git
 2. In your browser navigate to ```http://localhost:8888/phpmyadmin```, here is where you can select the Import tab and in the project directory go to ```sites > db-backups > bookstore.sql.zip``` and click GO at the bottom of your screen
 3. Also in phpmyadmin, recreate the user: "Admin" with the password "Epicodus"<br>
-4. Open MAMP, select ```Preferences```, select ```Web Server``` tab, direct the ```Document Root``` at the top level of your project folder
+4. Open MAMP, select ```Preferences```, select ```Web Server``` tab, direct the ```Document Root``` at the top level of your project folder<br>
+<img width="531" alt="screen shot 2016-04-22 at 3 07 32 pm" src="https://cloud.githubusercontent.com/assets/16548986/14756147/08bdf792-089c-11e6-8d56-a69be72440b3.png"> <br>
 5. Navigate to ```http://localhost:8888``` 
 
 ## Known Bugs
